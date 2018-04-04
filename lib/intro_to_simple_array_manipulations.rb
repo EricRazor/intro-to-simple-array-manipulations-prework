@@ -51,3 +51,4 @@ def using_delete(arr,str)
   if arr == str
     arr.delete
   return arr
+end
