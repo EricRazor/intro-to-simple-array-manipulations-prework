@@ -8,4 +8,4 @@ end
 
 def using_pop(array)
   last_element = array.pop()
-  return last_element - 1
+  return last_element
