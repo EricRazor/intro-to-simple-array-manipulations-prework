@@ -28,6 +28,7 @@ end
 
 def using_concat(arr_one,arr_two)
   concatenated = arr_one+arr_two
+  arr_one + 1
   return concatenated
 end
   
