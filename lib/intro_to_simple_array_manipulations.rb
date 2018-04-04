@@ -38,6 +38,6 @@ def using_insert(array,element)
 end
   
 def using_uniq(arr)
-  arr.uniq()
+  arr.uniq!
   return arr
 end
