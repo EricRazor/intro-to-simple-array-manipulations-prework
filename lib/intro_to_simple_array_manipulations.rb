@@ -53,5 +53,5 @@ def using_delete(arr,str)
 end
 
 def using_delete_at(arr,num)
-  num.delete(arr)
+  arr.delete(array[num].num)
 end
