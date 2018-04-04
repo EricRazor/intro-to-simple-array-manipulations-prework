@@ -27,7 +27,7 @@ def shift_with_args(array)
 end
 
 def using_concat(arr_one,arr_two)
-  concatenated = arr_two + arr_one
+  concatenated = arr_one+arr_two
   return concatenated
 end
   
