@@ -31,4 +31,10 @@ def using_concat(arr_one,arr_two)
   arr_one.push(arr_two)
   return concatenated
 end
+
+def using_insert(array,element)
+  array.insert(element)
+  array[3] = element
+  return array
+end
   
