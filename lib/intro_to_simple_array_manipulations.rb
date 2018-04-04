@@ -37,7 +37,7 @@ def using_insert(array,element)
   return array
 end
   
-def using_uniq(array)
-  array.uniq("")
+def using_uniq()
+  array.uniq()
   return array
 end
